@@ -1,2 +1,2 @@
 This is file A
-This is change to the file 
+This is change to the file
